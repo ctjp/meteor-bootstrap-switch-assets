@@ -1,0 +1,1 @@
+# meteor-bootstrap-switch-assets
